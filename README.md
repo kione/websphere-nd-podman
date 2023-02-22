@@ -1,3 +1,5 @@
+# Took this without proofing ;) looked alright. will adpat it to podmanager structures
+# Amir Barkal, thank you for the work so far!
 # Websphere Application Server Network Deployment 2-Node Cluster on Docker
 # Written by Amir Barkal, inspired by [Dockerfiles for WebSphere Application Server traditional](https://github.com/WASdev/ci.docker.websphere-traditional)
 ======================================================================================================
